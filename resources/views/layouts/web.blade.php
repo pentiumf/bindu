@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
 
     <!-- CSRF Token -->
@@ -36,12 +37,12 @@
         <div class="navbar-routes">
           <ul>
             <li><a href="{{route('home.index')}}">Home</a></li>
-            <li><a href="#">About Us</a></li>
+            <li><a href="{{route('home.aboutUs')}}">About Us</a></li>
             <li><a href="{{route('home.tours')}}">Tours</a></li>
-            <li><a href="#">Flights</a></li>
+            <li><a href="">Flights</a></li>
             <li><a href="#">Hotels</a></li>
             <li><a href="#">Special Offers</a></li>
-            <li><a href="#">Contact Us</a></li>
+            <li><a href="{{route('home.contactUs')}}">Contact Us</a></li>
 
           </ul>
         </div>
@@ -133,7 +134,7 @@
     <!-- Scripts -->
     <script src="{{ asset('js/libs.js') }}"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.0/js/bootstrap-datepicker.min.js'></script>
-    
+
     <script src="{{ asset('js/app.js') }}"></script>
     @yield('script')
 </body>

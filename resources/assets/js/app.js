@@ -208,10 +208,4 @@
       tourSpanReturn.text(end);
     });
 
-
-
-
-
-
-
  });

@@ -13,6 +13,9 @@
 
 Route::get('/', 'PageController@home')->name('home.index');
 Route::get('tours', 'PageController@tours')->name('home.tours');
+Route::get('about-us', 'PageController@aboutUs')->name('home.aboutUs');
+Route::get('contact-us', 'PageController@contactUs')->name('home.contactUs');
+
 
 
 Auth::routes();

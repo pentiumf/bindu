@@ -13,4 +13,12 @@ class PageController extends Controller
     public function tours() {
       return view('pages.tours');
     }
+
+    public function aboutUs() {
+      return view('pages.about');
+    }
+
+    public function contactUs() {
+      return view('pages.contact');
+    }
 }
