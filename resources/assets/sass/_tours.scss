@@ -1,0 +1,35 @@
+.tours-banner {
+  background-image: url("/images/tour-result.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: $oc-gray-5;
+  background-blend-mode: multiply;
+  .tours-banner-caption {
+    padding: 200px 40px;
+    h1 {
+      font-size: 60px;
+      font-weight: 600;
+      color: #fff;
+      text-transform: uppercase;
+    }
+  }
+}
+
+
+.tour-list-wrapper {
+  padding: 50px 0;
+  background: #eee;
+  .tour-list-header {
+    padding-bottom: 40px;
+    text-align: center;
+    h3 {
+      font-size: 30px;
+      font-weight: 400;
+    }
+  }
+  .tour-list-container {
+    width: 90%;
+    margin: 0 auto;
+  }
+}

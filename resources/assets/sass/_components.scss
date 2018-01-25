@@ -1,0 +1,119 @@
+//Btn Slide
+.btn-slide {
+    font-size: 13px;
+
+    position: relative;
+
+    display: inline-block;
+
+    width: 170px;
+    height: 34px;
+    padding: 0 0 0 15px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    border: 1px solid #3c3c3c;
+    border-radius: 50px;
+    background-color: #3c3c3c;
+    cursor: pointer;
+}
+
+.btn-slide .text {
+    font-style: inherit;
+    color: #fff;
+
+    -webkit-transition: all .5s ease;
+       -moz-transition: all .5s ease;
+         -o-transition: all .5s ease;
+            transition: all .5s ease;
+}
+
+.btn-slide .icons {
+    position: absolute;
+    top: 1px;
+    bottom: 1px;
+    left: 1px;
+
+    padding: 9px;
+
+    -webkit-transition: all .5s ease;
+       -moz-transition: all .5s ease;
+         -o-transition: all .5s ease;
+            transition: all .5s ease;
+    text-align: center;
+
+    border-radius: 50%;
+    background-color: $brandColor;
+    color: #fff;
+}
+
+.btn-slide:before {
+    position: absolute;
+    left: 0;
+
+    width: 100%;
+    padding-right: 15px;
+
+    content: attr(data-hover);
+    -webkit-transition: all .5s ease;
+       -moz-transition: all .5s ease;
+         -o-transition: all .5s ease;
+            transition: all .5s ease;
+    text-align: center;
+
+    opacity: 0;
+    color: #fff;
+}
+
+.btn-slide:hover .text {
+    opacity: 0;
+
+}
+
+.btn-slide:hover .icons {
+    left:      calc(100% - 32px);
+    left: -moz-calc(100% - 32px);
+}
+
+.btn-slide:hover:before {
+    opacity: 1;
+}
+
+.group-title {
+  margin-bottom: 20px;
+  margin-left: 15px;
+  text-align: left;
+
+  .sub-title {
+    p {
+      display: inline-block;
+      margin-bottom: 0;
+      text-transform: uppercase;
+      color: #6e747c;
+    }
+    i {
+      font-size: 28px;
+      position: relative;
+      margin-left: 60px;
+      color: #c6c6c6;
+      &:after {
+        position: absolute;
+        right: 105%;
+        bottom: 7px;
+        width: 54px;
+        height: 2px;
+        content: '';
+        background: $brandColor;
+      }
+    }
+  }
+  h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px 0 0 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #434a54;
+  }
+}

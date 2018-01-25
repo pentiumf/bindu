@@ -1,0 +1,149 @@
+#FindSearchWrap {
+  padding: 80px 100px;
+  background: #eee;
+}
+
+#finderHeader {
+  margin-bottom: 20px;
+  h2 {
+    font-weight: 400;
+  }
+}
+
+#tab-li-first{
+  border-top-left-radius: 20px;
+}
+
+#flightDate {
+  width: 45%;
+}
+
+.home-tab-pannel {
+    width: 100%;
+    ul {
+      margin: 0;
+      .current-flight-tab {
+        background-color: $brandColor;
+        color: #fff;
+      }
+      li {
+        list-style: none;
+        display: inline-block;
+        width: 180px;
+        text-align: center;
+        height: 50px;
+        line-height: 50px;
+        background-color: rgba(12, 12, 12, .05);
+        cursor: pointer;
+        font-size: 18px;
+        font-weight: 400;
+        color: #555555;
+          &:hover {
+            background-color: $brandColor;
+            color: #fff;
+          }
+        img {
+          margin-right: 15px;
+          width: 14px;
+
+        }
+      }
+    }
+  }
+
+.finder-wrapper {
+    padding: 50px;
+    background-color: rgba(255, 255, 255, .5);
+    display: block;
+
+    .current-finder {
+      display: block !important;
+    }
+
+    .finder {
+      display: none;
+
+      .flightFor {
+        width: 25% !important;
+      }
+
+      .find-hotel-destination {
+        width: 30%;
+        float: left;
+        margin-right: 15px;
+        margin-top: 3px;
+        span {
+          margin-bottom: 15px;
+          display: block;
+          font-size: 17px;
+          color: $textColor;
+          font-weight: 600;
+        }
+        input {
+          display: block;
+          padding-bottom: 6px;
+          width: 100%;
+          font-size: 16px;
+          font-weight: 500;
+          text-align: left;
+          color: $textColor;
+          background-color: transparent;
+          border: none;
+          border-bottom: 2px solid $brandColor;
+          border-radius: 0;
+          outline: none;
+          -webkit-transition: border-color .2s ease-out;
+          transition: border-color .2s ease-out;
+        }
+      }
+      .find-hotel-group-date {
+        width: 65%;
+        float: left;
+      }
+
+      // .ofFlight {
+      //   width: 26% !important;
+      //   .selectholder {
+      //     width: 31%;
+      //   }
+      //   .searchholder {
+      //     width: 30%;
+      //   }
+      // }
+
+      .ofTour {
+        .selectholder {
+          width: 35% !important;
+        }
+        .searchholder {
+          width: 25% !important;
+        }
+      }
+
+
+      .find-hotel-group-select {
+        padding-top: 55px;
+        clear: both;
+      }
+
+      .searchholder {
+        width: 20%;
+        float: left;
+        margin-top: 2px;
+        // button {
+        //   width: 100%;
+        //   height: 50px;
+        //   border: none;
+        //   outline: none;
+        //   color: #fff;
+        //   font-size: 15px;
+        //   border-radius: 50px;
+        //   cursor: pointer;
+        //   background-color: $brandColor;
+        //   text-transform: uppercase;
+        //   box-shadow: 0 15px 13px -8px rgba(2, 32, 50, 0.3);
+        // }
+      }
+
+    }
+  }

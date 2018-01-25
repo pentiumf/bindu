@@ -1,0 +1,99 @@
+.travelers {
+  position: relative;
+  width: 100%;
+  min-height: 400px;
+  color: #ffffff;
+  background-color: #2d3948;
+  background-repeat: repeat;
+  background-position: bottom;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-image: url(https://res.cloudinary.com/hjp6lmmoa/image/upload/v1507551301/bg-section-traveler_tdpssw.jpg);
+  padding: 100px 20px;
+}
+
+
+.traveler {
+    z-index: 5;
+    //width: 300px;
+    // margin: 0 15px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: #ffffff;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .1);
+}
+
+#mainTilteTravel {
+  color: #fff;
+}
+
+.traveler .cover-image {
+    position: relative;
+
+    overflow: hidden;
+
+    width: 100%;
+    height: 120px;
+}
+
+.traveler .cover-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.traveler .wrapper-content {
+    padding: 0 30px 30px 30px;
+}
+
+.traveler .wrapper-content .avatar {
+    position: relative;
+    top: -50px;
+
+    display: inline-block;
+    overflow: hidden;
+
+    width: 32%;
+    margin-bottom: -50px;
+
+    border: 5px solid #ffffff;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .1);
+}
+
+.traveler .wrapper-content .avatar img {
+    width: 100%;
+
+    border-radius: 50%;
+}
+
+.traveler .wrapper-content .name {
+    margin-bottom: 0;
+
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+.traveler .wrapper-content .address {
+    margin-bottom: 0;
+
+    text-transform: capitalize;
+
+    color: #555e69;
+}
+
+.traveler .wrapper-content .description {
+    margin: 15px 0 0 0;
+
+    color: #555e69;
+}
+
+
+#travelHome {
+  width: 70%;
+  /* margin: 0 auto; */
+  position: absolute;
+  right: 100px;
+  bottom: -90px;
+}

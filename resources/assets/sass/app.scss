@@ -1,0 +1,48 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
+
+//Universal
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.clearfix:after {
+     content: ".";
+     display: block;
+     height: 0;
+     clear: both;
+     visibility: hidden;
+}
+
+.clearfix {display: inline-block;}
+
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #fff;
+  color: rgba(0,0,0,0.87);
+}
+
+#webContent {
+  padding-top: 65px;
+}
+
+
+@import "open-color";
+@import "variables";
+@import "components";
+@import "navBar";
+@import "home";
+@import "finder";
+@import "datepicker";
+@import "tourLayout";
+@import "homeHotels";
+@import "homeTravellers";
+@import "tours";
+@import "footer";

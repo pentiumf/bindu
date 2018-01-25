@@ -1,0 +1,73 @@
+#homeNavbar {
+  width: 100%;
+  position: fixed;
+  z-index: 200000;
+  .home-navbar-wrapper {
+    background: #fff;
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,.06), 0 4px 5px 0 rgba(0,0,0,.06), 0 1px 10px 0 rgba(0,0,0,.08);
+    .navbar-wrapper {
+      padding: 0 20px;
+      .navbar-logo {
+        width: 10%;
+        margin-right: 10px;
+        float: left;
+        //border: 1px solid;
+        text-align: center;
+        img {
+          max-width: 100%;
+          max-height: 60px;
+          object-fit: cover;
+        }
+      }
+      .navbar-routes {
+        width: 67%;
+        float: left;
+        margin-right: 10px;
+        padding: 20px 0;
+        ul {
+          li {
+            display: inline;
+            a {
+              color: $textColor;
+              text-decoration: none;
+              font-size: 14px;
+              font-weight: 400;
+              text-transform: uppercase;
+              padding: 5px;
+              margin-right: 10px;
+              &:hover {
+                color: $brandColor;
+              }
+            }
+          }
+        }
+      }
+      .navbar-auth {
+        width: 20%;
+        float: right;
+        text-align: center;
+        padding: 22px 0;
+        a {
+          padding: 10px 20px;
+          text-transform: uppercase;
+          font-size: 12px;
+          color: #fff;
+          background: $brandColor;
+          text-decoration: none;
+          border-radius: 2px;
+          box-shadow: 0 2px 4px 0 rgba(0, 0, 0,0.15);
+          font-weight: 500;
+          &:hover {
+            box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.08), 0 6px 26px 5px rgba(0, 0, 0, 0.05), 0 16px 20px 2px rgba(0, 0, 0, 0.05);
+          }
+        }
+      }
+    }
+  }
+}
+
+
+@media screen and (max-width: 850px)  {
+
+
+}
