@@ -43,7 +43,7 @@
                                     <div class="wrapper-organization">
                                         <div class="col-md-4 col-sm-4 col-xs-4 md-organization">
                                             <div class="content-organization">
-                                                <div class="wrapper-img"><img src="images/homepage/avatar-contact-1.jpg" alt="" class="img img-responsive"></div>
+                                                <div class="wrapper-img"><img src="https://image.flaticon.com/icons/png/512/206/206869.png" alt="" class="img img-responsive"></div>
                                                 <div class="main-organization">
                                                     <div class="organization-title"> <a href="contact.html#" class="title">Jason Williams</a>
                                                         <p class="text">Commercial Director</p>
@@ -62,7 +62,7 @@
                                         </div>
                                         <div class="col-md-4 col-sm-4 col-xs-4 md-organization">
                                             <div class="content-organization">
-                                                <div class="wrapper-img"><img src="images/homepage/avatar-contact-2.jpg" alt="" class="img img-responsive"></div>
+                                                <div class="wrapper-img"><img src="https://www.hasotech.com/wp-content/uploads/2017/08/20161014_58006bff8b1de.png" alt="" class="img img-responsive"></div>
                                                 <div class="main-organization">
                                                     <div class="organization-title"> <a href="contact.html#" class="title">Jason Williams</a>
                                                         <p class="text">Commercial Director</p>
@@ -81,7 +81,7 @@
                                         </div>
                                         <div class="col-md-4 col-sm-4 col-xs-4 md-organization">
                                             <div class="content-organization">
-                                                <div class="wrapper-img"><img src="images/homepage/avatar-contact-3.jpg" alt="" class="img img-responsive"></div>
+                                                <div class="wrapper-img"><img src="https://image.flaticon.com/icons/png/512/206/206864.png" alt="" class="img img-responsive"></div>
                                                 <div class="main-organization">
                                                     <div class="organization-title"> <a href="contact.html#" class="title">Jason Williams</a>
                                                         <p class="text">Commercial Director</p>
@@ -125,10 +125,10 @@
                                 <div class="wrapper-info">
                                     <div class="map-info">
                                         <h3 class="title-style-2">HOW TO FIND US</h3>
-                                        <p class="address"><i class="fa fa-map-marker"></i> 333 Moo 10, Chert Wudthakas Road, Srikan, Don Mueang, Bangkok, Thailand</p>
-                                        <p class="phone"><i class="fa fa-phone"></i> 910-740-6026</p>
+                                        <p class="address"><i class="fa fa-map-marker"></i> osu, Accra, Ghana</p>
+                                        <p class="phone"><i class="fa fa-phone"></i> 000-000-0000</p>
                                         <p class="mail">
-                                            <a href="mailto:domain@expooler.com"> <i class="fa fa-envelope-o"></i>domain@expooler.com</a>
+                                            <a href="mailto:info@bindutravels.com"> <i class="fa fa-envelope-o"></i>info@bindutravels.com</a>
                                         </p>
                                         <div class="footer-block"><a class="btn btn-open-map">Open Map</a></div>
                                     </div>

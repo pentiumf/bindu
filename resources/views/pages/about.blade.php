@@ -174,7 +174,7 @@
                                 <h3 class="title-style-2">our explore expert</h3>
                                 <div class="wrapper-expert">
                                     <div class="item content-expert">
-                                        <a href="about-us.html#" class="img-expert"><img src="images/homepage/about-5.jpg" alt="" class="img-responsive img"></a>
+                                        <a href="about-us.html#" class="img-expert"><img src="http://clinicalleadership.net/wp-content/uploads/2016/03/Female-Placeholder-850x743.jpg" alt="" class="img-responsive img"></a>
                                         <div class="caption-expert"><a href="about-us.html#" class="title">Mark letto</a>
                                             <p class="text">Manager Tour Guide</p>
                                             <ul class="social list-inline">
@@ -186,7 +186,7 @@
                                         </div>
                                     </div>
                                     <div class="item content-expert">
-                                        <a href="about-us.html#" class="img-expert"><img src="images/homepage/about-6.jpg" alt="" class="img-responsive img"></a>
+                                        <a href="about-us.html#" class="img-expert"><img src="https://calchiefs.org/wp-content/uploads/2016/07/ProfilePlaceholderSuit.png" alt="" class="img-responsive img"></a>
                                         <div class="caption-expert"><a href="about-us.html#" class="title">Mark letto</a>
                                             <p class="text">Manager Tour Guide</p>
                                             <ul class="social list-inline">
@@ -198,7 +198,7 @@
                                         </div>
                                     </div>
                                     <div class="item content-expert">
-                                        <a href="about-us.html#" class="img-expert"><img src="images/homepage/about-7.jpg" alt="" class="img-responsive img"></a>
+                                        <a href="about-us.html#" class="img-expert"><img src="https://media.istockphoto.com/vectors/default-gray-placeholder-man-vector-id871752462" alt="" class="img-responsive img"></a>
                                         <div class="caption-expert"><a href="about-us.html#" class="title">Mark letto</a>
                                             <p class="text">Manager Tour Guide</p>
                                             <ul class="social list-inline">
@@ -210,7 +210,7 @@
                                         </div>
                                     </div>
                                     <div class="item content-expert">
-                                        <a href="about-us.html#" class="img-expert"><img src="images/homepage/about-8.jpg" alt="" class="img-responsive img"></a>
+                                        <a href="about-us.html#" class="img-expert"><img src="http://hhp.ufl.edu/media/hhpufledu-/profile-page-photos/profile-pic-placeholder_female.jpg" alt="" class="img-responsive img"></a>
                                         <div class="caption-expert"><a href="about-us.html#" class="title">Mark letto</a>
                                             <p class="text">Manager Tour Guide</p>
                                             <ul class="social list-inline">
