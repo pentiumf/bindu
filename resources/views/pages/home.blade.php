@@ -5,8 +5,8 @@
 @section('content')
 <!-- Carousel -->
 <div id="homeCarousel" class="owl-carousel">
-    <div class="item" style="background-image: url(https://kylebstiff.files.wordpress.com/2013/05/christ-the-redeemer-large.jpg);">
-      <h1>Brazil</h1>
+    <div class="item" style="background-image: url(https://www.statuecruises.com/images/HSC-HomepageImage.jpg);">
+      <h1>New York City</h1>
     </div>
 
     <div class="item" style="background-image: url(https://www.monstersandcritics.com/lists/wp-content/uploads/2015/03/Seven-Wonders-of-the-World-Taj-Mahal-1024x630.png);">
@@ -17,12 +17,16 @@
       <h1>Egypt</h1>
     </div>
 
-    <div class="item" style="background-image: url(http://travel.home.sndimg.com/content/dam/images/travel/fullset/2015/10/12/new-seven-wonders-machu-picchu.jpg.rend.hgtvcom.1280.960.suffix/1491581548990.jpeg);">
-      <h1>Peru</h1>
+    <div class="item" style="background-image: url(http://www.feco.info/data_images/countries/orlando/orlando-09.jpg);">
+      <h1>Orlando</h1>
     </div>
 
-    <div class="item" style="background-image: url(http://doonup.com/wp-content/uploads/2017/10/The-Roman-Colosseum-Italy-slider.jpg);">
-      <h1>Rome</h1>
+    <div class="item" style="background-image: url(http://www.biepag.eu/wp-content/uploads/2017/05/washington-monument-1627184_960_720.jpg);">
+      <h1>Washington</h1>
+    </div>
+
+    <div class="item" style="background-image: url(http://www.recordrentacar.com/images/beforefooter/destinos/car-hire-barcelona.jpg);">
+      <h1>Barcelona</h1>
     </div>
 </div>
 <!-- Carousel -->

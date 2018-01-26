@@ -18,6 +18,12 @@
         <link type="text/css" rel="stylesheet" href="libs/selectbox/css/jquery.selectbox.css">
         <link type="text/css" rel="stylesheet" href="libs/please-wait/please-wait.css">
 
+        <style media="screen">
+          #topPartnersWrap {
+            padding: 50px 0;
+          }
+        </style>
+
         <!-- <link type="text/css" rel="stylesheet" href="libs/fancybox/css/jquery.fancybox.css?v=2.1.5">
         <link type="text/css" rel="stylesheet" href="libs/fancybox/css/jquery.fancybox-buttons.css?v=1.0.5">
         <link type="text/css" rel="stylesheet" href="libs/fancybox/css/jquery.fancybox-thumbs.css?v=1.0.7"> -->
@@ -280,7 +286,7 @@
                                 </div>
                             </div>
                         </div>
-                        <section class="wrapper-open-position padding-top padding-bottom">
+                        <!-- <section class="wrapper-open-position padding-top padding-bottom">
                             <div class="container">
                                 <div class="wrapper-position">
                                     <h3 class="title-style-2">open position</h3>
@@ -350,35 +356,34 @@
                                     </div>
                                 </div>
                             </div>
-                        </section>
+                        </section> -->
                         <section class="about-banner">
-                            <div class="container">
-                                <h3 class="title-style-2">OUR INVESTORS RELATIONS</h3>
+                            <div class="container" id="topPartnersWrap">
+                                <h3 class="title-style-2">OUR TOP PARTNERS</h3>
                                 <div class="wrapper-banner">
                                     <div class="content-banner">
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-1.png" alt="" class="img-responsive"></a>
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-4.png" alt="" class="img-responsive"></a>
+                                        <a href="about-us.html#" class="img-banner"><img src="http://www.stickpng.com/assets/images/585e9ddbcb11b227491c34fc.png" alt="" class="img-responsive"></a>
+                                        <a href="about-us.html#" class="img-banner"><img src="https://www.inria.fr/var/inria/storage/images/medias/sophia-antipolis/actualites-images/amadeus-logo/957928-1-fre-FR/amadeus-logo_vignette.gif" alt="" class="img-responsive"></a>
                                     </div>
                                     <div class="content-banner">
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-2.png" alt="" class="img-responsive"></a>
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-5.png" alt="" class="img-responsive"></a>
+                                        <a href="about-us.html#" class="img-banner"><img src="https://www.logodesignlove.com/images/evolution/british-airways-logo-old-01.jpg" alt="" class="img-responsive"></a>
+                                        <a href="about-us.html#" class="img-banner"><img src="https://www.anari.aero/wp-content/uploads/2015/04/kenya-airways.png" alt="" class="img-responsive"></a>
                                     </div>
                                     <div class="content-banner">
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-3.png" alt="" class="img-responsive"></a>
+                                        <a href="about-us.html#" class="img-banner"><img src="http://www.fox21online.com/wp-content/uploads/2017/04/delta-logo-300x300.png" alt="" class="img-responsive"></a>
+                                        <a href="about-us.html#" class="img-banner"><img src="https://s-media-cache-ak0.pinimg.com/originals/00/1f/84/001f84ec3ae8d59d1590b364b3e9858e.png" alt="" class="img-responsive"></a>
+                                    </div>
+                                    <div class="content-banner">
+                                        <a href="about-us.html#" class="img-banner"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_ethiopian_airlines.svg/2000px-Logo_ethiopian_airlines.svg.png" alt="" class="img-responsive"></a>
+                                        <a href="about-us.html#" class="img-banner"><img src="http://www.belgiansmaak.com/wp-content/uploads/2015/07/Brussels_Airlines_Logo.gif" alt="" class="img-responsive"></a>
+                                    </div>
+                                    <div class="content-banner">
+                                        <a href="about-us.html#" class="img-banner"><img src="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/Egyptair_logo.svg/revision/latest?cb=20100510190957" alt="" class="img-responsive"></a>
+                                    </div>
+                                    <!-- <div class="content-banner">
                                         <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-6.png" alt="" class="img-responsive"></a>
-                                    </div>
-                                    <div class="content-banner">
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-4.png" alt="" class="img-responsive"></a>
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-1.png" alt="" class="img-responsive"></a>
-                                    </div>
-                                    <div class="content-banner">
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-5.png" alt="" class="img-responsive"></a>
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-2.png" alt="" class="img-responsive"></a>
-                                    </div>
-                                    <div class="content-banner">
-                                        <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-6.png" alt="" class="img-responsive"></a>
                                         <a href="about-us.html#" class="img-banner"><img src="images/logo/about-banner-3.png" alt="" class="img-responsive"></a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </section>
